@@ -1,0 +1,210 @@
+1+000+Computer science, information & general works 
+2+010+Bibliographies
+3+011+Bibliographies and catalogs
+3+012+Bibliographies and catalogs of individuals
+3+014+Of anonymous & pseudonymous works
+3+015+Of works from specific places
+2+020+Library and information sciences
+3+025+Operations of libraries and archives
+3+026+Libraries and archives devoted to specific subjects
+3+027+General libraries and archives
+3+028+Reading and use of other information media
+2+030+Encyclopedias & books of facts
+3+031+General encyclopedic works in American English
+3+032+General encyclopedic works in English
+3+033+Encyclopedias in other Germanic languages 
+3+034+Encyclopedias in French, Occitan & Catalan
+2+060+Associations, organizations & museums 
+3+065+General organizations in Italy
+3+066+General organizations in Spain
+3+067+General organizations in Russia; in Eastern Europe
+3+068+General organizations in other geographic areas
+1+100+Philosophy & psychology 
+2+110+Metaphysics
+3+111+Ontology
+3+113+Cosmology (Philosophy of nature)
+3+114+Space
+3+115+Time
+2+120+Epistemology
+3+121+Epistemology (Theory of knowledge)
+3+122+Causation
+3+123+Determinism and indeterminism
+3+124+Teleology
+2+130+Parapsychology & occultism 
+3+131+Parapsychological and occult methods
+3+133+Specific topics in parapsychology & occultism
+3+135+Dreams and mysteries
+3+137+Divinatory graphology 
+2+140+Philosophical schools of thought 
+3+141+Idealism and related systems
+3+142+Critical philosophy 
+3+143+Bergsonism and intuitionism
+3+144+Humanism and related systems
+1+200+Religion
+2+210+Philosophy & theory of religion 
+3+211+Concepts of God 
+3+212+Existence, knowability & attributes of God 
+3+213+Creation
+3+214+Theodicy
+2+220+The Bible 
+3+221+Old Testament (Tanakh) 
+3+222+Historical books of Old Testament 
+3+223+Poetic books of Old Testament
+3+224+Prophetic books of Old Testament 
+2+230+Christianity
+3+235+Spiritual beings 
+3+236+Eschatology
+3+238+Creeds & catechisms
+3+239+Apologetics and polemics
+2+240+Christian practice & observance 
+3+243+Evangelistic writings for individuals  
+3+246+Use of art in Christianity 
+3+247+Church furnishings and related articles
+3+248+Christian experience, practice, life
+1+300+Social sciences
+2+310+Statistics
+3+315+General statistics of Asia 
+3+316+General statistics of Africa 
+3+317+General statistics of North America
+3+318+General statistics of South America 
+2+320+Political science
+3+325+International migration and colonization
+3+326+Slavery and emancipation
+3+327+International relations
+3+328+The legislative process
+2+330+Economics
+3+335+Socialism and related systems
+3+336+Public finance 
+3+337+International economics 
+3+338+Production
+2+340+Law
+3+341+Law of nations 
+3+342+Constitutional and administrative law
+3+343+Military, tax, trade & industrial law
+3+344+Labor, social, education & cultural law
+1+400+Language
+2+410+Linguistics
+3+411+Writing systems
+3+412+Etymology
+3+413+Dictionaries
+3+414+Phonology & phonetics
+2+420+English and Old English languages
+3+421+Writing system, phonology, phonetics
+3+422+Etymology of standard English
+3+423+Dictionaries of standard English
+3+425+Grammar of standard English
+2+430+German and related languages
+3+431+Writing system, phonology, phonetics
+3+432+Etymology of standard German
+3+433+Dictionaries of standard German
+3+435+Grammar of standard German
+2+440+French & related Romance languages
+3+441+Writing system, phonology, phonetics
+3+442+Etymology of standard French
+3+443+Dictionaries of standard French
+3+445+Grammar of standard French
+1+500+Science
+2+510+Mathematics
+3+511+General principles of mathematics
+3+512+Algebra
+3+513+Arithmetic
+3+514+Topology
+2+520+Astronomy
+3+521+Celestial mechanics
+3+522+Techniques, equipment & materials
+3+523+Specific celestial bodies and phenomena
+3+525+Earth (Astronomical geography) 
+2+530+Physics
+3+535+Light and related radiation
+3+536+Heat
+3+537+Electricity and electronics
+3+538+Magnetism
+2+540+Chemistry
+3+541+Physical chemistry 
+3+542+Techniques, equipment & materials 
+3+543+Analytical chemistry 
+3+546+Inorganic chemistry 
+1+600+Technology
+2+610+Medicine and health
+3+611+Human anatomy, cytology, histology
+3+612+Human physiology 
+3+613+Personal health & safety 
+3+614+Forensic medicine; incidence of disease
+2+620+Engineering
+3+621+Applied physics
+3+622+Mining and related operations
+3+623+Military and nautical engineering
+3+624+Civil engineering
+2+630+Agriculture
+3+631+Techniques, equipment & materials 
+3+632+Plant injuries, diseases, pests
+3+633+Field and plantation crops
+3+634+Orchards, fruits, forestry
+2+640+Home and family management
+3+641+Food and drink
+3+642+Meals and table service
+3+643+Housing and household equipment
+3+644+Household utilities
+1+700+Arts & recreation 
+2+710+Area planning and landscape architecture
+3+711+Area planning (Civic art)
+3+712+Landscape architecture (Landscape design)
+3+713+Landscape architecture of trafficways
+3+714+Water features in landscape architecture
+2+720+Architecture
+3+721+Architectural materials and structural elements
+3+722+Architecture from earliest times to c. 300
+3+723+Architecture from c. 300 to 1399
+3+724+Architecture from 1400
+2+730+Sculpture and related arts
+3+731+Processes, forms, subjects of sculpture
+3+732+Sculpture from earliest times to c. 500, sculpture of non-literate peoples
+3+733+Greek, Etruscan, Roman sculpture
+3+734+Sculpture from ca 500 to 1399
+2+740+Graphic arts
+3+741+Drawing and drawings
+3+742+Perspective in drawing
+3+743+Drawing and drawings by subject
+3+744+Communication design, visual design, graphic design
+1+800+Literature
+2+810+American literature in English
+3+811+American poetry in English
+3+812+American drama in English
+3+813+American fiction in English
+3+814+American essays in English
+2+820+English and Old English (Anglo-Saxon) literatures
+3+821+English Poetry
+3+822+English drama
+3+823+English fiction
+3+824+English essays
+2+830+German literature and literatures of related languages
+3+831+German poetry
+3+832+German drama
+3+833+German fiction
+3+834+German essays
+2+840+French literature and literatures of related Romance languages
+3+841+French poetry
+3+842+French drama
+3+843+French fiction
+3+844+French essays
+1+900+History & geography
+2+910+Geography and travel 
+3+911+Historical geography 
+3+912+Maps and plans of surface of earth
+3+913+Geography of and travel in ancient world 
+3+914+Geography of and travel in Europe
+2+930+History of ancient world to ca. 499 
+3+931+China to 420 
+3+932+Egypt to 640 
+3+933+Palestine to 70 
+3+934+India to 647 
+2+940+History of Europe 
+3+941+British Isles 
+3+942+England and Wales
+3+943+Germany and central Europe
+3+944+France and Monaco
+2+950+History of Asia
+3+951+China and adjacent areas
+3+952+Japan
+3+953+Arabian Peninsula and adjacent areas
+3+954+India & south Asia

@@ -1,0 +1,64 @@
+C:\Users\yskk9\source\repos\LibrarianTrainingApp\LibrarianTrainingApp\bin\Debug\LibrarianTrainingApp.exe.config
+C:\Users\yskk9\source\repos\LibrarianTrainingApp\LibrarianTrainingApp\bin\Debug\LibrarianTrainingApp.exe
+C:\Users\yskk9\source\repos\LibrarianTrainingApp\LibrarianTrainingApp\bin\Debug\LibrarianTrainingApp.pdb
+C:\Users\yskk9\source\repos\LibrarianTrainingApp\LibrarianTrainingApp\obj\Debug\LibrarianTrainingApp.csproj.AssemblyReference.cache
+C:\Users\yskk9\source\repos\LibrarianTrainingApp\LibrarianTrainingApp\obj\Debug\LibrarianTrainingApp.Properties.Resources.resources
+C:\Users\yskk9\source\repos\LibrarianTrainingApp\LibrarianTrainingApp\obj\Debug\LibrarianTrainingApp.csproj.GenerateResource.cache
+C:\Users\yskk9\source\repos\LibrarianTrainingApp\LibrarianTrainingApp\obj\Debug\LibrarianTrainingApp.csproj.CoreCompileInputs.cache
+C:\Users\yskk9\source\repos\LibrarianTrainingApp\LibrarianTrainingApp\obj\Debug\LibrarianTrainingApp.exe
+C:\Users\yskk9\source\repos\LibrarianTrainingApp\LibrarianTrainingApp\obj\Debug\LibrarianTrainingApp.pdb
+C:\Users\yskk9\source\repos\LibrarianTrainingApp\LibrarianTrainingApp\obj\Debug\LibrarianTrainingApp.Form1.resources
+C:\Users\yskk9\source\repos\LibrarianTrainingApp\LibrarianTrainingApp\obj\Debug\LibrarianTrainingApp.ReplacingBooksForm.resources
+C:\Users\yskk9\Desktop\LibrarianTrainingApp\LibrarianTrainingApp\bin\Debug\LibrarianTrainingApp.exe.config
+C:\Users\yskk9\Desktop\LibrarianTrainingApp\LibrarianTrainingApp\bin\Debug\LibrarianTrainingApp.exe
+C:\Users\yskk9\Desktop\LibrarianTrainingApp\LibrarianTrainingApp\bin\Debug\LibrarianTrainingApp.pdb
+C:\Users\yskk9\Desktop\LibrarianTrainingApp\LibrarianTrainingApp\obj\Debug\LibrarianTrainingApp.csproj.AssemblyReference.cache
+C:\Users\yskk9\Desktop\LibrarianTrainingApp\LibrarianTrainingApp\obj\Debug\LibrarianTrainingApp.Form1.resources
+C:\Users\yskk9\Desktop\LibrarianTrainingApp\LibrarianTrainingApp\obj\Debug\LibrarianTrainingApp.Properties.Resources.resources
+C:\Users\yskk9\Desktop\LibrarianTrainingApp\LibrarianTrainingApp\obj\Debug\LibrarianTrainingApp.ReplacingBooksForm.resources
+C:\Users\yskk9\Desktop\LibrarianTrainingApp\LibrarianTrainingApp\obj\Debug\LibrarianTrainingApp.csproj.GenerateResource.cache
+C:\Users\yskk9\Desktop\LibrarianTrainingApp\LibrarianTrainingApp\obj\Debug\LibrarianTrainingApp.csproj.CoreCompileInputs.cache
+C:\Users\yskk9\Desktop\LibrarianTrainingApp\LibrarianTrainingApp\obj\Debug\LibrarianTrainingApp.exe
+C:\Users\yskk9\Desktop\LibrarianTrainingApp\LibrarianTrainingApp\obj\Debug\LibrarianTrainingApp.pdb
+C:\Users\yskk9\Documents\VC\Year3\Semester 2\PROG7312\POE\Part 1\Youn-Soo Kim ST10114702 PROG7312_Part1\LibrarianTrainingApp\LibrarianTrainingApp\bin\Debug\LibrarianTrainingApp.exe.config
+C:\Users\yskk9\Documents\VC\Year3\Semester 2\PROG7312\POE\Part 1\Youn-Soo Kim ST10114702 PROG7312_Part1\LibrarianTrainingApp\LibrarianTrainingApp\bin\Debug\LibrarianTrainingApp.exe
+C:\Users\yskk9\Documents\VC\Year3\Semester 2\PROG7312\POE\Part 1\Youn-Soo Kim ST10114702 PROG7312_Part1\LibrarianTrainingApp\LibrarianTrainingApp\bin\Debug\LibrarianTrainingApp.pdb
+C:\Users\yskk9\Documents\VC\Year3\Semester 2\PROG7312\POE\Part 1\Youn-Soo Kim ST10114702 PROG7312_Part1\LibrarianTrainingApp\LibrarianTrainingApp\obj\Debug\LibrarianTrainingApp.csproj.AssemblyReference.cache
+C:\Users\yskk9\Documents\VC\Year3\Semester 2\PROG7312\POE\Part 1\Youn-Soo Kim ST10114702 PROG7312_Part1\LibrarianTrainingApp\LibrarianTrainingApp\obj\Debug\LibrarianTrainingApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\yskk9\Documents\VC\Year3\Semester 2\PROG7312\POE\Part 1\Youn-Soo Kim ST10114702 PROG7312_Part1\LibrarianTrainingApp\LibrarianTrainingApp\obj\Debug\LibrarianTrainingApp.Form1.resources
+C:\Users\yskk9\Documents\VC\Year3\Semester 2\PROG7312\POE\Part 1\Youn-Soo Kim ST10114702 PROG7312_Part1\LibrarianTrainingApp\LibrarianTrainingApp\obj\Debug\LibrarianTrainingApp.Properties.Resources.resources
+C:\Users\yskk9\Documents\VC\Year3\Semester 2\PROG7312\POE\Part 1\Youn-Soo Kim ST10114702 PROG7312_Part1\LibrarianTrainingApp\LibrarianTrainingApp\obj\Debug\LibrarianTrainingApp.ReplacingBooksForm.resources
+C:\Users\yskk9\Documents\VC\Year3\Semester 2\PROG7312\POE\Part 1\Youn-Soo Kim ST10114702 PROG7312_Part1\LibrarianTrainingApp\LibrarianTrainingApp\obj\Debug\LibrarianTrainingApp.csproj.GenerateResource.cache
+C:\Users\yskk9\Documents\VC\Year3\Semester 2\PROG7312\POE\Part 1\Youn-Soo Kim ST10114702 PROG7312_Part1\LibrarianTrainingApp\LibrarianTrainingApp\obj\Debug\LibrarianTrainingApp.csproj.CoreCompileInputs.cache
+C:\Users\yskk9\Documents\VC\Year3\Semester 2\PROG7312\POE\Part 1\Youn-Soo Kim ST10114702 PROG7312_Part1\LibrarianTrainingApp\LibrarianTrainingApp\obj\Debug\LibrarianTrainingApp.exe
+C:\Users\yskk9\Documents\VC\Year3\Semester 2\PROG7312\POE\Part 1\Youn-Soo Kim ST10114702 PROG7312_Part1\LibrarianTrainingApp\LibrarianTrainingApp\obj\Debug\LibrarianTrainingApp.pdb
+C:\Users\yskk9\Desktop\LibrarianTrainingApp\LibrarianTrainingApp\obj\Debug\LibrarianTrainingApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\yskk9\Desktop\LibrarianTrainingApp\LibrarianTrainingApp\obj\Debug\LibrarianTrainingApp.IdentifyingAreasForm.resources
+C:\Users\yskk9\Documents\VC\Year3\Semester 2\PROG7312\POE\Part 2\Youn-Soo Kim ST10114702 PROG7312_Part2\LibrarianTrainingApp\LibrarianTrainingApp\bin\Debug\LibrarianTrainingApp.exe.config
+C:\Users\yskk9\Documents\VC\Year3\Semester 2\PROG7312\POE\Part 2\Youn-Soo Kim ST10114702 PROG7312_Part2\LibrarianTrainingApp\LibrarianTrainingApp\bin\Debug\LibrarianTrainingApp.exe
+C:\Users\yskk9\Documents\VC\Year3\Semester 2\PROG7312\POE\Part 2\Youn-Soo Kim ST10114702 PROG7312_Part2\LibrarianTrainingApp\LibrarianTrainingApp\bin\Debug\LibrarianTrainingApp.pdb
+C:\Users\yskk9\Documents\VC\Year3\Semester 2\PROG7312\POE\Part 2\Youn-Soo Kim ST10114702 PROG7312_Part2\LibrarianTrainingApp\LibrarianTrainingApp\obj\Debug\LibrarianTrainingApp.csproj.AssemblyReference.cache
+C:\Users\yskk9\Documents\VC\Year3\Semester 2\PROG7312\POE\Part 2\Youn-Soo Kim ST10114702 PROG7312_Part2\LibrarianTrainingApp\LibrarianTrainingApp\obj\Debug\LibrarianTrainingApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\yskk9\Documents\VC\Year3\Semester 2\PROG7312\POE\Part 2\Youn-Soo Kim ST10114702 PROG7312_Part2\LibrarianTrainingApp\LibrarianTrainingApp\obj\Debug\LibrarianTrainingApp.Form1.resources
+C:\Users\yskk9\Documents\VC\Year3\Semester 2\PROG7312\POE\Part 2\Youn-Soo Kim ST10114702 PROG7312_Part2\LibrarianTrainingApp\LibrarianTrainingApp\obj\Debug\LibrarianTrainingApp.IdentifyingAreasForm.resources
+C:\Users\yskk9\Documents\VC\Year3\Semester 2\PROG7312\POE\Part 2\Youn-Soo Kim ST10114702 PROG7312_Part2\LibrarianTrainingApp\LibrarianTrainingApp\obj\Debug\LibrarianTrainingApp.Properties.Resources.resources
+C:\Users\yskk9\Documents\VC\Year3\Semester 2\PROG7312\POE\Part 2\Youn-Soo Kim ST10114702 PROG7312_Part2\LibrarianTrainingApp\LibrarianTrainingApp\obj\Debug\LibrarianTrainingApp.ReplacingBooksForm.resources
+C:\Users\yskk9\Documents\VC\Year3\Semester 2\PROG7312\POE\Part 2\Youn-Soo Kim ST10114702 PROG7312_Part2\LibrarianTrainingApp\LibrarianTrainingApp\obj\Debug\LibrarianTrainingApp.csproj.GenerateResource.cache
+C:\Users\yskk9\Documents\VC\Year3\Semester 2\PROG7312\POE\Part 2\Youn-Soo Kim ST10114702 PROG7312_Part2\LibrarianTrainingApp\LibrarianTrainingApp\obj\Debug\LibrarianTrainingApp.csproj.CoreCompileInputs.cache
+C:\Users\yskk9\Documents\VC\Year3\Semester 2\PROG7312\POE\Part 2\Youn-Soo Kim ST10114702 PROG7312_Part2\LibrarianTrainingApp\LibrarianTrainingApp\obj\Debug\LibrarianTrainingApp.exe
+C:\Users\yskk9\Documents\VC\Year3\Semester 2\PROG7312\POE\Part 2\Youn-Soo Kim ST10114702 PROG7312_Part2\LibrarianTrainingApp\LibrarianTrainingApp\obj\Debug\LibrarianTrainingApp.pdb
+C:\Users\yskk9\Desktop\Youn-Soo Kim ST10114702 PROG7312_POE\LibrarianTrainingApp\LibrarianTrainingApp\bin\Debug\LibrarianTrainingApp.exe.config
+C:\Users\yskk9\Desktop\Youn-Soo Kim ST10114702 PROG7312_POE\LibrarianTrainingApp\LibrarianTrainingApp\bin\Debug\LibrarianTrainingApp.exe
+C:\Users\yskk9\Desktop\Youn-Soo Kim ST10114702 PROG7312_POE\LibrarianTrainingApp\LibrarianTrainingApp\bin\Debug\LibrarianTrainingApp.pdb
+C:\Users\yskk9\Desktop\Youn-Soo Kim ST10114702 PROG7312_POE\LibrarianTrainingApp\LibrarianTrainingApp\obj\Debug\LibrarianTrainingApp.csproj.AssemblyReference.cache
+C:\Users\yskk9\Desktop\Youn-Soo Kim ST10114702 PROG7312_POE\LibrarianTrainingApp\LibrarianTrainingApp\obj\Debug\LibrarianTrainingApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\yskk9\Desktop\Youn-Soo Kim ST10114702 PROG7312_POE\LibrarianTrainingApp\LibrarianTrainingApp\obj\Debug\LibrarianTrainingApp.Form1.resources
+C:\Users\yskk9\Desktop\Youn-Soo Kim ST10114702 PROG7312_POE\LibrarianTrainingApp\LibrarianTrainingApp\obj\Debug\LibrarianTrainingApp.IdentifyingAreasForm.resources
+C:\Users\yskk9\Desktop\Youn-Soo Kim ST10114702 PROG7312_POE\LibrarianTrainingApp\LibrarianTrainingApp\obj\Debug\LibrarianTrainingApp.Properties.Resources.resources
+C:\Users\yskk9\Desktop\Youn-Soo Kim ST10114702 PROG7312_POE\LibrarianTrainingApp\LibrarianTrainingApp\obj\Debug\LibrarianTrainingApp.ReplacingBooksForm.resources
+C:\Users\yskk9\Desktop\Youn-Soo Kim ST10114702 PROG7312_POE\LibrarianTrainingApp\LibrarianTrainingApp\obj\Debug\LibrarianTrainingApp.csproj.GenerateResource.cache
+C:\Users\yskk9\Desktop\Youn-Soo Kim ST10114702 PROG7312_POE\LibrarianTrainingApp\LibrarianTrainingApp\obj\Debug\LibrarianTrainingApp.csproj.CoreCompileInputs.cache
+C:\Users\yskk9\Desktop\Youn-Soo Kim ST10114702 PROG7312_POE\LibrarianTrainingApp\LibrarianTrainingApp\obj\Debug\LibrarianTrainingApp.exe
+C:\Users\yskk9\Desktop\Youn-Soo Kim ST10114702 PROG7312_POE\LibrarianTrainingApp\LibrarianTrainingApp\obj\Debug\LibrarianTrainingApp.pdb
+C:\Users\yskk9\Desktop\Youn-Soo Kim ST10114702 PROG7312_POE\LibrarianTrainingApp\LibrarianTrainingApp\obj\Debug\LibrarianTrainingApp.FindingCallNumbersForm.resources
+C:\Users\yskk9\Desktop\LibrarianTrainingApp\LibrarianTrainingApp\obj\Debug\LibrarianTrainingApp.FindingCallNumbersForm.resources
